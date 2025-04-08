@@ -1,8 +1,9 @@
 <div align="center">
 
-<div style="position: relative; width: 100%; height: 300px; background-image: url('https://raw.githubusercontent.com/keatonfreed/keatonfreed/main/Banner.png'); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; text-shadow: 0 0 5px #000;">
+<div style="position: relative; width: 100%; height: 300px; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; text-shadow: 0 0 5px #000;">
+  <img src="https://raw.githubusercontent.com/keatonfreed/keatonfreed/main/Banner.png" style="width:100%; max-width:100%; margin:0; padding:0; position:absolute; left:0; right:0; top:0; object-fit:cover"/>
   
-  <img src="https://avatars.githubusercontent.com/u/keatonfreed" width="100" style="border-radius: 50%; border: 3px solid white; margin-bottom: 10px;" alt="Keaton Freed's avatar" />
+  <img src="https://avatars.githubusercontent.com/u/61421954" width="100" style="border-radius: 50%; border: 3px solid white; margin-bottom: 10px;" alt="Keaton Freed's avatar" />
   
   <h1 style="margin: 5px 0; font-size: 2.2em;">Keaton Freed</h1>
   <p style="margin: 0 0 10px; font-size: 1.2em;">Full Stack Developer • Creator • Tech Enthusiast</p>
