@@ -1,14 +1,14 @@
 <div align="center">
 
-<div style="position: relative; width: 100%; height: 300px; background-image: url('https://raw.githubusercontent.com/keatonfreed/keatonfreed/main/banner.png'); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; text-shadow: 0 0 5px #000;">
+<div style="position: relative; width: 100%; height: 300px; background-image: url('https://raw.githubusercontent.com/keatonfreed/keatonfreed/main/Banner.png'); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; text-shadow: 0 0 5px #000;">
   
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" width="100" style="border-radius: 50%; border: 3px solid white; margin-bottom: 10px;" alt="Keaton Freed's avatar" />
+  <img src="https://avatars.githubusercontent.com/u/keatonfreed" width="100" style="border-radius: 50%; border: 3px solid white; margin-bottom: 10px;" alt="Keaton Freed's avatar" />
   
   <h1 style="margin: 5px 0; font-size: 2.2em;">Keaton Freed</h1>
   <p style="margin: 0 0 10px; font-size: 1.2em;">Full Stack Developer • Creator • Tech Enthusiast</p>
 
   <div>
-    <a href="https://instagram.com/keatonfreed" target="_blank">
+    <a href="https://instagram.com/keaton_freed" target="_blank">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/keatonfreed" target="_blank">
