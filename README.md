@@ -2,8 +2,8 @@
 
 <div style="position: relative; width: 100%; height: 300px; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; text-shadow: 0 0 5px #000;">
   <img src="https://raw.githubusercontent.com/keatonfreed/keatonfreed/main/Banner.png" style="width:100%; max-width:100%; margin:0; padding:0; position:absolute; left:0; right:0; top:0; object-fit:cover"/>
-<hr>
-  <h2 style="margin: 0 0 10px; margin-top: 2px !important; border-bottom:none !important">Full Stack Developer • Creator</h12>
+
+  <h2 style="margin: 0 0 10px; margin-top: 2px !important; border-bottom:none !important">Full Stack Developer • Creator</h2>
 
   <div>
     <a href="https://instagram.com/keaton_freed" target="_blank">
